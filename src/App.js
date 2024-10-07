@@ -36,6 +36,7 @@ function App() {
             </CursorProvider>
           ) : (
             <Main theme={themes[theme]} setTheme={setTheme} />
+            //poopface
           )}
         </div>
       </>
