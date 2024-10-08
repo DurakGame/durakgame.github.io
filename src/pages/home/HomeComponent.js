@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import Greeting from "../../containers/greeting/Greeting";
 import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
-import "./home.css"
+
 function Home(props) {
   return (
     <div>

@@ -49,8 +49,7 @@ body {
   scroll-behavior: smooth;
 }
 body {
-  /* padding-left: 5%;
-  margin-left: 5%; */
+  margin: 0;
   font: 19px / 23px Montserrat, "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -76,6 +75,4 @@ body {
     font-size: 16px;
     line-height: normal;
   }
-
-  
 }

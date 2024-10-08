@@ -118,7 +118,7 @@ function DegreeCard(props) {
               rel="noopener noreferrer"
               style={{ textDecoration: "none", textAlign: "center" }}
             >
-              {/* <p
+              <p
                 {...button_visit}
                 style={{
                   marginRight: "23px",
@@ -127,8 +127,8 @@ function DegreeCard(props) {
                   backgroundColor: theme.accentColor,
                 }}
               >
-                
-              </p> */}
+                Visit Website
+              </p>
             </a>
           </div>
         </div>
