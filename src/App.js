@@ -7,7 +7,7 @@ import { GlobalStyles } from "./global";
 import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
-
+/*okay*/
 function App() {
   useEffect(() => {
     if (settings.googleTrackingID) {
